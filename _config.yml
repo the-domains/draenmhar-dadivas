@@ -1,0 +1,28 @@
+name: Draenmhar Dadivas
+favicon: null
+layout_spectrum: 0.9795789299532771
+typography_spectrum: 0.77392592956312
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.15133238770067692
+  lightness: 0.5379644518252462
+  saturation: 0.5301645866129547
+  rhythmicContrast: 0.7771461589727551
+purpose: []
